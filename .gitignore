@@ -1,4 +1,4 @@
-Blog/Blog/.env
-
+.env
 .DS_Store
 .vscode
+db.sqlite3
